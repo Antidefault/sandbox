@@ -1,5 +1,7 @@
 # sandbox
 
+![example node sandbox](screenshot.png)
+
 ## Basic setup
 
 1. Create your own images, or copy over the examples: `cp -r examples images`
